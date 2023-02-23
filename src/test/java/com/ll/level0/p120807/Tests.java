@@ -5,11 +5,6 @@ import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
-/*
-System.out.println(new Solution().solution(2, 3)); // -1
-System.out.println(new Solution().solution(11, 11)); // 1
-System.out.println(new Solution().solution(7, 99)); // -1
-*/
 
 public class Tests {
     @Test
