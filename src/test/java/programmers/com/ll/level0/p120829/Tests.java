@@ -1,7 +1,8 @@
-package com.ll.level0.p120829;
+package programmers.com.ll.level0.p120829;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import programmers.com.ll.level0.p120829.Solution;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 
