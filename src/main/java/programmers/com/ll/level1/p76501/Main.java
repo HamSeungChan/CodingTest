@@ -1,5 +1,7 @@
 package programmers.com.ll.level1.p76501;
 
+import java.util.Arrays;
+
 class Main {
     public static void main(String[] args) {
 
@@ -7,16 +9,16 @@ class Main {
 }
 
 class Solution {
-    public int solution(int[] absolutes, boolean[] signs) {
-        int answer = 0;
+    public int[] solution(int[] arr) {
 
-        for (int i = 0; i < absolutes.length; i++) {
-            if (signs[i] == true) {
-                answer += absolutes[i];
-            } else {
-                answer -= absolutes[i];
-            }
-        }
-        return answer;
+        if (arr.length <= 1)
+            return new int[]{-1};
+
+        int min = Arrays.stream(arr).min().getAsInt();
+
+        return Arrays
+                .stream(arr)
+                .filter(i -> i!=min)
+                .toArray();
     }
 }
