@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="programmers.com.ll.level1.p12933.SolutionTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-03-13T13:05:32" hostname="DESKTOP-UOJ4842" time="0.001">
+  <properties/>
+  <testcase name="10�쓣 �꽔�뿀�쓣 �븣 3�씠 異쒕젰" classname="programmers.com.ll.level1.p12933.SolutionTest" time="0.0"/>
+  <testcase name="12�쓣 �꽔�뿀�쓣 �븣 11�씠 異쒕젰" classname="programmers.com.ll.level1.p12933.SolutionTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

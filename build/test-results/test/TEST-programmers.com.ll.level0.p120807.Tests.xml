@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="programmers.com.ll.level0.p120807.Tests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-03-13T13:05:32" hostname="DESKTOP-UOJ4842" time="0.045">
+  <properties/>
+  <testcase name="2, 3 =&gt; -1" classname="programmers.com.ll.level0.p120807.Tests" time="0.043"/>
+  <testcase name="11, 11 =&gt; 1" classname="programmers.com.ll.level0.p120807.Tests" time="0.001"/>
+  <testcase name="7, 99 =&gt; -1" classname="programmers.com.ll.level0.p120807.Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

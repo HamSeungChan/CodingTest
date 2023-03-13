@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="programmers.com.ll.level0.p120829.Tests" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-03-13T13:05:32" hostname="DESKTOP-UOJ4842" time="0.004">
+  <properties/>
+  <testcase name="70�쓣 �꽔�쑝硫� 1�씠�굹�삩�떎" classname="programmers.com.ll.level0.p120829.Tests" time="0.002"/>
+  <testcase name="91�쓣 �꽔�쑝硫� 3�씠�굹�삩�떎" classname="programmers.com.ll.level0.p120829.Tests" time="0.0"/>
+  <testcase name="90�쓣 �꽔�쑝硫� 2媛��굹�삩�떎" classname="programmers.com.ll.level0.p120829.Tests" time="0.0"/>
+  <testcase name="180�쓣 �꽔�쑝硫� 4媛��굹�삩�떎" classname="programmers.com.ll.level0.p120829.Tests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
